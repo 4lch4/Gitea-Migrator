@@ -1,0 +1,273 @@
+name	description	visibility	lastmodified
+4lch4/argus	A CLI utility for managing numerous SSH keys.	public	2022-07-08T06:35:33Z
+4lch4/OCLIF-Template	A template project for building CLI applications with the OCLI Framework.	public	2022-07-08T05:59:33Z
+4lch4/git-finder	Finds all directories that contain a git repository within a given directory.	public	2022-07-08T05:45:33Z
+4lch4/blog-post-workflow	Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed	public, fork	2022-07-08T05:44:47Z
+4lch4/tilt	Define your dev environment as code. For microservice apps on Kubernetes.	public, fork	2022-07-08T01:51:45Z
+4lch4/NPM-Init	A custom JavaScript module to replace the default `npm init` command.	public	2022-07-07T23:17:57Z
+4lch4/deploy-sourcegraph-docker	Sourcegraph with Docker Compose deployment reference	public, fork	2022-07-07T18:21:26Z
+4lch4/dashy	🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!	public, fork	2022-07-07T17:09:03Z
+4lch4/TPolls-FE	The Front End of TPolls, the website for TPolls, whatever you prefer to call it, this is it.	public	2022-07-07T16:06:31Z
+4lch4/Sebastian	My timekeeping assistant.	public	2022-07-07T14:05:14Z
+4lch4/Secretariat	An API for storing events/logs.	private	2022-07-07T07:45:14Z
+4lch4/Dynatrace-API	An npm package for easily interacting with the Dynatrace API for your managed or SaaS instance.	public	2022-07-07T07:45:09Z
+4lch4/Tailscale-Lib	A wrapper library for the Tailscale API.	public	2022-07-07T06:40:51Z
+4lch4/Sindri	An API/website that will function similar to laravel.build, where you can use a curl command to get a build script to ease the start of developing a project.	public	2022-07-07T06:35:27Z
+4lch4/Connor-CLI	The CLI component of Project Connor.	public	2022-07-07T06:35:22Z
+4lch4/Dhall-Reader	A lightweight Node.js package for reading dhall config files.	public	2022-07-07T06:35:16Z
+4lch4/Floo-Lib	A library for interacting with the Floo-API written in TypeScript.	public	2022-07-07T06:31:22Z
+4lch4/obsidian-s3-sync	A plugin for Obsidian that will sync your repository with an S3 bucket.	public	2022-07-07T06:31:17Z
+4lch4/Floo-API	An API that serves as a middle-man between a number of endpoints. Enabling you to send messages/notifications to a variety of locations, inspired by Apprise.	public	2022-07-07T05:26:25Z
+4lch4/Floo-OG	A micro-service/API that will be used as the ingress/endpoint for any webhooks/integrations with my other services such as Discord or ADO or w/e.	public	2022-07-07T05:00:34Z
+4lch4/Connor-Docs	The documentation site for Project Connor.	public	2022-07-07T02:30:47Z
+4lch4/Floo-Docs	A website built with Docusaurus that provides documentation on how to use the Floo-API and Floo-UI.	public	2022-07-07T01:26:29Z
+4lch4/NovaPoet	A blog setup for my buddy Corey to share his thoughts/art.	public	2022-07-07T01:26:05Z
+4lch4/Distractible-Scores		private	2022-07-06T23:10:41Z
+4lch4/Quorra	The front-end for Tron.	public	2022-07-06T22:10:37Z
+4lch4/Tron	A discord chat bot developed to make socializing a bit more enjoyable on our servers.	public	2022-07-06T21:39:52Z
+4lch4/DT-Aid	A CLI utility for managing/supporting a managed instance of Dynatrace.	private	2022-07-06T20:09:01Z
+4lch4/NPM-Module-Template		public	2022-07-06T19:00:17Z
+4lch4/TPolls	An API for creating and managing polls.	public	2022-07-06T18:02:13Z
+4lch4/oclif.github.io	docs for oclif	public, fork	2022-07-06T08:06:03Z
+4lch4/obsidian-icon-folder	🗂 Simply add icons to your folders in Obsidian.	public, fork	2022-07-06T03:29:34Z
+4lch4/Kratos	A "batch" job that will download all of the videos from a YouTube channel using YouTube-dl.	public	2022-07-05T20:30:17Z
+4lch4/hub	The official Espanso's package repository	public, fork	2022-07-05T17:26:50Z
+4lch4/Metanoia	Convert IP addresses to Battle.net regions.	public	2022-07-05T16:40:51Z
+4lch4/shields	Concise, consistent, and legible badges in SVG and raster format	public, fork	2022-07-04T22:38:10Z
+4lch4/espanso	Cross-platform Text Expander written in Rust	public, fork	2022-07-04T19:48:51Z
+4lch4/Clog	An API for storing "log" data in my cloud infrastructure.	public	2022-07-04T05:21:50Z
+4lch4/Theia-API	A middle-man API for interacting with the Ackee GraphQL API in a REST format.	public	2022-07-04T05:15:41Z
+4lch4/NoRED-Discord-Webhooks		public	2022-07-04T05:15:35Z
+4lch4/Reverse-Proxy-Sample		public	2022-07-04T05:11:04Z
+4lch4/Cronicle-Plugin-Tools		public	2022-07-04T05:10:52Z
+4lch4/Espanso-Validator		public	2022-07-04T05:10:48Z
+4lch4/nextjs-notion-starter-kit	Deploy your own Notion-powered website in minutes with Next.js and Vercel.	public, fork	2022-07-03T19:26:25Z
+4lch4/hugo-paper	🪴 A simple, clean, flexible Hugo theme	public, fork	2022-07-03T19:18:39Z
+4lch4/dashboard	:bar_chart: a nice and simple dashboard / landing page.	public, fork	2022-07-03T16:34:14Z
+4lch4/ssh-config	📟 SSH config parser and stringifier	public, fork	2022-07-03T12:46:13Z
+4lch4/obsidian-md-pdf		public, fork	2022-07-03T10:48:00Z
+4lch4/dot	The Deepfake Offensive Toolkit	public, fork	2022-07-03T09:32:48Z
+4lch4/Ansel-Docs	The homepage/documentation site for the Ansel API.	public	2022-07-02T06:26:41Z
+4lch4/Obsidian-Enmeti	An Obsidian plugin that helps to insert and manage links/images in files.	public	2022-07-01T04:40:53Z
+4lch4/Rinzler		public	2022-06-30T15:35:28Z
+4lch4/infrastructure		private	2022-06-29T01:30:13Z
+4lch4/4lch4	My profile README.	public	2022-06-28T00:13:43Z
+4lch4/ShutterTone-Apparel	A simple website for my friends' new business.	private	2022-06-27T00:41:06Z
+4lch4/discord-threader	A discord bot that makes a new thread for every message in certain channels.	public	2022-06-26T03:12:58Z
+4lch4/Flat-Act		public	2022-06-26T00:20:34Z
+4lch4/hugo-profile	A highly customizable and mobile first Hugo template for personal portfolio and blog.	public, fork	2022-06-25T17:55:03Z
+4lch4/4lch4.com	My personal site.	public	2022-06-25T08:22:14Z
+4lch4/Configural	Easily manage config files of nearly any format without much thought.	public	2022-06-25T01:15:38Z
+4lch4/Ansel	The monorepo for Project Ansel, an API for interacting with an S3/B2 storage medium.	public	2022-06-25T01:15:32Z
+4lch4/Ansel-API	An API for retrieving images/data from S3 compatible storage buckets.	public	2022-06-22T22:45:27Z
+4lch4/Cloudron-API	A wrapper library, written in TypeScript, for interacting with the Cloudron API.	public	2022-06-22T21:03:22Z
+4lch4/cheatsheets	My cheatsheets	public	2022-06-22T20:42:25Z
+4lch4/Sebastian-API	A middleman API between Toggl, Todoist, Habitica, and any other productivity tool I can tie into to. It will serve as the gateway to various tasks I'd like to be able to do with them.	public	2022-06-22T17:25:59Z
+4lch4/Dotfiles	A repository containing my dotfiles to be used across all devices and environments.	private	2022-06-22T00:54:45Z
+4lch4/Digital-Garden	My Digital Garden, Knowledge Base, collection TILs, whatever you wanna call it. I store the tidbits of knowledge that I've gathered over the years, in this repository.	public	2022-06-18T21:11:39Z
+4lch4/Alfred-Hue-Lights	A simple library, written in TypeScript, for interacting with Philips Hue Lights.	public	2022-06-18T21:00:32Z
+4lch4/Alfred	My home automation assistant.	public	2022-06-18T21:00:28Z
+4lch4/Cronicle-Discord-Webhook		public	2022-06-18T20:55:33Z
+4lch4/TypeScript-Module-Template	A template repository for a TypeScript Module.	public	2022-06-18T20:55:21Z
+4lch4/lib-sonarqube		private	2022-06-18T20:50:33Z
+4lch4/Toggl-Aid	A wrapper library for interacting with the Toggl API.	public	2022-06-18T20:50:28Z
+4lch4/Email-To-Text	A lightweight API for converting e-mail addresses to text.	public	2022-06-18T19:41:26Z
+4lch4/Lib-HN	A library for interacting with the HackerNews API.	public	2022-06-18T08:25:36Z
+4lch4/Enmeti	Helps to insert and manage links in Markdown files.	public	2022-06-17T07:00:49Z
+4lch4/Vercel-Status-Badge	A small API, created with Koa.js, to create status badges for Vercel deployments.	public	2022-06-16T18:30:29Z
+4lch4/Jaskier		public	2022-06-15T21:01:25Z
+4lch4/boilerplate-npm	A boilerplate for the freeCodeCamp curriculum.	public, fork	2022-06-13T17:56:57Z
+4lch4/carbon	:black_heart: Create and share beautiful images of your source code	public, fork	2022-06-13T04:03:25Z
+4lch4/YoutubeDownloader	2019 - Downloads Youtube videos.	public, fork	2022-06-07T03:26:57Z
+4lch4/bootstrap-bp-hugo-startpage	Bootstrap based Hugo startpage theme which provides out of the box best practices.	public, fork	2022-06-05T23:58:34Z
+4lch4/readme.so	An online drag-and-drop editor to easily build READMEs	public, fork	2022-06-04T23:32:38Z
+4lch4/github-profile-views-counter	It counts how many times your GitHub profile has been viewed. Free cloud micro-service.	public, fork	2022-06-03T21:42:47Z
+4lch4/Connor-Assets	A collection of shared assets to be used throughout Project Connor.	public	2022-05-31T20:41:46Z
+4lch4/Nocio	My collection of tools and utilities for interacting with the Notion API.	public	2022-05-30T22:52:19Z
+4lch4/Connor-Config	The shared configuration to be used by the various components of Project Connor.	private	2022-05-30T22:05:52Z
+4lch4/Connor-API	The API component of Project Connor.	public	2022-05-30T21:37:29Z
+4lch4/Ansible-Playbooks	A collection of playbooks to be used by my Ansible installation.	public	2022-05-29T22:33:36Z
+4lch4/Licert	A small CLI tool for inserting licensing headers at the top of source files.	public	2022-05-28T17:16:54Z
+4lch4/Koa-API-Template	A template repository to kickstart an API with Koa.	public	2022-05-28T01:05:52Z
+4lch4/koa-oto	A library for responding to requests within the Koa framework.	public	2022-05-27T17:15:49Z
+4lch4/Connor-Prime		public, archived	2022-05-20T21:30:33Z
+4lch4/espanso-hub	The official espanso package repository	public, fork	2022-05-19T08:46:16Z
+4lch4/HFUL	HFUL	public	2022-05-12T22:00:41Z
+4lch4/Advanced-Analytics	A website for the Advanced Analytics testing lab.	private	2022-05-11T23:30:44Z
+4lch4/hugo-arcana	Hugo port of the HTML5 UP Arcana template	public, fork	2022-05-11T23:28:42Z
+4lch4/Microsoft-3D-Movie-Maker	This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.	public, fork	2022-05-04T04:12:08Z
+4lch4/Connor-MKI		public, archived	2022-04-30T22:00:39Z
+4lch4/4lch4.social		public	2022-04-30T01:52:26Z
+4lch4/TPolls-lib	The SDK for interacting with the TPolls API.	public	2022-04-28T13:00:43Z
+4lch4/Commander-CLI-Template	This is a template repository for building a CLI application using Commander.	public	2022-04-26T22:11:30Z
+4lch4/Kuma-CLI	A CLI application for interacting with an instance of Uptime Kuma.	public	2022-04-25T05:07:00Z
+4lch4/Cloudron-Pages-Test	A repository for testing the GitHub Pages support provided by Cloudron.	public	2022-04-25T03:59:02Z
+4lch4/Cloudron	All of my information, documentation, and configuration(s) for my installation of Cloudron.	private	2022-04-23T04:47:14Z
+4lch4/logger	A simple console logger util for use in NodeJS/TypeScript applications.	public	2022-04-22T19:41:05Z
+4lch4/gh-wh-to-discord		public	2022-04-21T17:30:13Z
+4lch4/Heimdall		private	2022-04-17T00:30:12Z
+4lch4/Binario	Responsive card-based & code-light Hugo theme	public, fork	2022-04-15T19:09:38Z
+4lch4/Vault-Prime	My primary Obsidian vault to be used for storing my knowledge/notes over time.	private	2022-04-12T22:30:35Z
+4lch4/Floo	An API that serves as a middle-man between a number of endpoints. Enables you to send messages/notifications to a variety of locations, inspired by Apprise.	public	2022-04-10T11:09:19Z
+4lch4/Benimaru	A CLI utility to help with connecting/managing my tech infrastructure.	public	2022-04-09T12:33:24Z
+4lch4/URLCha-UI	The website component for my URL shortening service.	public	2022-03-31T05:17:14Z
+4lch4/URLCha-API	My personal URL shortening service.	public	2022-03-31T05:00:23Z
+4lch4/blog	My "official" blog that'll serve as a collection of my thoughts, guides, etc.	public	2022-03-29T22:13:56Z
+4lch4/URLCha-BU	A simple URL shortening service.	public	2022-03-29T20:10:16Z
+4lch4/Spoompls	A webcrawler, by Alcha for Alcha.	public, archived	2022-03-29T19:00:27Z
+4lch4/Floo-UI	The web UI for creating & modifying service configurations to be used by Floo-API.	public	2022-03-29T12:15:48Z
+4lch4/dashboard.4lch4.com	A simple dashboard with links to my various servers, services, etc.	public	2022-03-29T00:40:22Z
+4lch4/Directory	A simple website to serve as a directory to my various projects.	public	2022-03-28T21:59:24Z
+4lch4/vercel-status-express	Displays the latest deploy status as a badge for your vercel sites	public, fork	2022-03-25T15:16:44Z
+4lch4/koa-router-printer	A Koa middleware that outputs the routes registered to the application.	public	2022-03-23T14:44:58Z
+4lch4/Ansel-Sync	A Cron/Batch job responsible for updating the Redis used by Ansel to limit calls to the DigitalOcean Spaces API.	public	2022-03-20T04:55:30Z
+4lch4/Templater	A template plugin for obsidian	public, fork	2022-03-20T03:53:08Z
+4lch4/Batch-Jobs		public	2022-03-19T22:30:09Z
+4lch4/Resume	My resume/CV.	public	2022-03-11T18:09:39Z
+4lch4/JaskierAPI	The backend API to be used by Jaskier	public	2022-02-18T15:30:27Z
+4lch4/Restify-API-Template	A template repository to use when creating a new API service.	public	2022-02-18T15:30:18Z
+4lch4/next-js-blog-with-comments		private	2022-02-17T22:12:59Z
+4lch4/replace-tokens	A forked version of the original replace-tokens Action.	public, fork	2022-02-14T17:48:10Z
+4lch4/nored-primary		private	2022-02-11T09:26:12Z
+4lch4/nored-archives	A repository for backing up my Node-RED server(s).	private	2022-02-11T09:23:22Z
+4lch4/socials	A simple website to serve as a directory to my various socials.	public	2022-02-07T13:59:39Z
+4lch4/didi		public, fork	2022-02-01T15:39:39Z
+4lch4/Dobby	A Discord self bot capable of fixing common typos and grammar mistakes.	public	2022-01-29T12:41:23Z
+4lch4/blog-poster	A small CLI utility for creating new blog posts.	public	2022-01-29T11:36:00Z
+4lch4/lads.llc	The homepage of Leaman and Antill Door Solutions, LLC.	private	2022-01-13T20:03:38Z
+4lch4/LADS	The repository of the Leaman and Antill Door Solutions primary knowledge vault.	private	2022-01-13T17:53:03Z
+4lch4/aduh95.github.io	Personal curriculum vitae	public, fork	2022-01-04T11:29:58Z
+4lch4/Synology-Discord-Webhook		public	2021-12-31T11:37:46Z
+4lch4/plugin-help	standard help for oclif	public, fork	2021-12-09T17:18:41Z
+4lch4/plugin-autocomplete	autocomplete plugin for oclif	public, fork	2021-12-08T12:29:43Z
+4lch4/plugin-plugins	plugins plugin for oclif	public, fork	2021-12-08T12:10:39Z
+4lch4/plugin-not-found	"did you mean" plugin for oclif	public, fork	2021-12-08T11:18:50Z
+4lch4/plugin-command-snapshot	generates and compares OCLIF plugins snapshot files	public, fork	2021-12-08T05:48:01Z
+4lch4/command	oclif base command	public, fork	2021-12-07T21:55:37Z
+4lch4/flat-bot	An experimental repository using OCTO Flat-Data: https://octo.github.com/projects/flat-data	public	2021-11-23T15:41:57Z
+4lch4/youtube-gif	Youtube GIF Maker Using Next.js, Node and RabbitMQ	public, fork	2021-11-21T18:00:12Z
+4lch4/plugin-update	add autoupdate to your oclif CLI	public, fork	2021-11-19T17:11:56Z
+4lch4/Tabby-Fig	A Tabby plugin that enables support for Fig.	public	2021-11-13T03:50:36Z
+4lch4/Chevereto	My image hosting site via Chevereto.	private	2021-11-07T13:32:20Z
+4lch4/Shared-Icons	A repository containing various icons to be used in my projects.	private	2021-11-07T10:52:01Z
+4lch4/ilograph-standard-libraries	Standard libraries for use with Ilograph Interactive Diagrams (https://app.ilograph.com)	public, fork	2021-11-07T07:56:06Z
+4lch4/Nishan	An ecosystem of packages for notion written in typescript.	public, fork	2021-10-22T17:28:03Z
+4lch4/obsidian-folder-note-plugin	Plugin to add description note to a folder for Obsidian.	public, fork	2021-10-18T20:45:40Z
+4lch4/clipboard-cli	Access the system clipboard (copy/paste)	public, fork	2021-10-13T21:38:00Z
+4lch4/Gollum-Test		public	2021-10-13T08:02:25Z
+4lch4/plugin-commands		public, fork	2021-10-13T04:46:41Z
+4lch4/example-multi-js	example multi-command CLI built with javascript	public, fork	2021-10-13T03:52:23Z
+4lch4/100-days-of-code	Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)	public, fork	2021-10-12T23:05:19Z
+4lch4/example-single-js	example single-command CLI built with oclif	public, fork	2021-10-12T22:55:48Z
+4lch4/discord-akairo	A bot framework for Discord.js.	public, fork	2021-10-12T22:41:59Z
+4lch4/screen	get stdout/stderr columns	public, fork	2021-10-12T22:35:03Z
+4lch4/semantic-release	shared semantic-release config for oclif projects	public, fork	2021-10-12T22:27:17Z
+4lch4/example-plugin-ts	example oclif plugin in typescript	public, fork	2021-10-12T21:53:34Z
+4lch4/flat	The GitHub Action which powers Flat	public, fork	2021-10-12T21:19:59Z
+4lch4/example-plugin-js	example oclif plugin in javascript	public, fork	2021-10-12T21:08:16Z
+4lch4/plugin-which		public, fork	2021-10-12T20:55:58Z
+4lch4/example-single-ts	example single command CLI built with oclif	public, fork	2021-10-12T20:47:06Z
+4lch4/example-multi-ts	example multi-command CLI built with typescript	public, fork	2021-10-12T20:27:15Z
+4lch4/color		public, fork	2021-10-12T19:44:52Z
+4lch4/nyc-config	nyc config for oclif components	public, fork	2021-10-12T19:29:42Z
+4lch4/vscode-projects-plus	An extension for managing projects. Feature rich, customizable, automatically finds your projects.	public, fork	2021-10-12T18:56:28Z
+4lch4/ubuntu-unattended	Script to create unattended Ubuntu ISO	public, fork	2021-10-12T18:22:52Z
+4lch4/Shared-Obsidian-Tools	A collection of scripts, files, etc., to be used within my various Obsidian Vaults.	public	2021-10-08T16:44:56Z
+4lch4/writing-javascript-actions		public	2021-10-07T21:40:53Z
+4lch4/Espanso-Snippets	A collection of my various "snippets" (technically called matches, in Espanso lingo) for Espanso.	private	2021-09-17T16:42:23Z
+4lch4/katacoda-scenarios	Katacoda Scenarios	public	2021-09-16T20:42:35Z
+4lch4/github-activity-readme	Updates README with the recent GitHub activity of a user	public, fork	2021-09-14T15:32:51Z
+4lch4/Distractible-Leader	A website that shows the current leader in points for the Distractible podcast.	public	2021-09-12T19:47:37Z
+4lch4/emptiness		public	2021-09-10T17:59:04Z
+4lch4/4lch4.com-Retired		public, archived	2021-09-01T23:46:05Z
+4lch4/vscode-front-matter-docs	A website for documentation of the VSCode Front Matter Extension.	public	2021-08-29T19:06:28Z
+4lch4/distractible-converter		public	2021-08-11T16:28:35Z
+4lch4/pblib	A Node.js module written in TypeScript for the sole purpose of interacting with the PushBullet API.	public	2021-07-05T15:36:31Z
+4lch4/tree-online		public	2021-07-01T22:22:04Z
+4lch4/bobsgame	bob's game (from the infamous upcoming RPG "bob's game") is a multiplayer puzzle game- but not just any puzzle game, EVERY puzzle game! It's a build-your-own puzzle game with a puzzle game creator where YOU define all the rules to your own custom game!	public, fork	2021-06-30T20:34:03Z
+4lch4/Cloud-Services	This repo contains the various files to manage the self-hosted services I run.	public	2021-06-25T23:43:21Z
+4lch4/ActionsTester		public	2021-06-25T23:06:42Z
+4lch4/GH-Aid	A CLI utility/batch program for retrieving my GitHub data.	public	2021-06-23T17:27:03Z
+4lch4/Espanso-Packages	My collection of packages created for use within Espanso.	public	2021-06-21T20:46:22Z
+4lch4/espanso-bits	A collection of my Espanso snippets/matches.	public	2021-06-17T15:02:18Z
+4lch4/PassGen	A small CLI utility for generating phrases to be used as passwords.	public, archived	2021-06-12T15:53:28Z
+4lch4/helm-charts	A collection of my Helm charts.	private	2021-06-12T07:37:07Z
+4lch4/Axios-Aid		public, archived	2021-06-07T11:19:43Z
+4lch4/goodsidian-plugin	A Goodreads implementation for Obsidian.	public, fork	2021-05-21T15:39:38Z
+4lch4/DBrain	My digital brain, courtesy of Obsidian.md.	private	2021-05-06T19:05:34Z
+4lch4/Dhall-Configs	A collection of Dhall files to be used by any of my other applications.	public	2021-05-01T23:42:16Z
+4lch4/Hedwig	A small library for interacting with the Twitter API.	public	2021-04-28T22:20:42Z
+4lch4/blipp	blipp is a simple hapi plugin to display the routes table at startup	public, fork	2021-03-31T19:38:31Z
+4lch4/lib-extrahop	A library/module for interacting with the ExtraHop API.	public	2021-03-23T17:19:51Z
+4lch4/Proper-Projects	A collection of projects that I consider complete or that have a "legit" release available.	public	2021-03-18T07:50:57Z
+4lch4/SQ-Aid	A CLI utility for interacting with the SonarQube API.	public	2021-03-18T07:37:39Z
+4lch4/homebrew-clipboard-cli	My repo for publishing the Clipboard-Cli app to Homebrew as a self-contained binary.	public	2021-03-15T18:34:10Z
+4lch4/oclif	Node.js Open CLI Framework. Built with 💜 by Heroku.	public, fork	2021-03-06T05:05:53Z
+4lch4/test	test helpers for oclif components	public, fork	2021-03-03T15:54:15Z
+4lch4/core		public, fork	2021-03-02T17:54:32Z
+4lch4/Obsidian-Vault-Template	A template repository to be used for creating a new Obsidian vault.	public	2021-02-15T18:17:43Z
+4lch4/discord.js	A powerful JavaScript library for interacting with the Discord API	public, fork	2021-01-21T00:45:34Z
+4lch4/nosleepproductionsllc	A sample static site hosted on GitHub Pages for NoSleepProductions, LLC.	public	2020-11-15T23:06:51Z
+4lch4/PrettyJBH	A custom prettier configuration for use in my JBH projects.	public	2020-08-27T19:46:29Z
+4lch4/Guild-Emblem-Generator	A tool for building World of Warcraft guild emblems using node-canvas.	public, fork	2020-08-19T10:08:52Z
+4lch4/Abed	A micro-service/API for downloading YouTube videos.	public, archived	2020-07-22T13:00:36Z
+4lch4/morse-learn	A fun little web app to help you learn Morse code on Gboard.	public, fork, archived	2020-07-21T11:57:04Z
+4lch4/espanso-electron-gui	A test GUI made with Electron to manage my matches/snippets.	public, archived	2020-07-15T12:30:45Z
+4lch4/console		public, fork, archived	2020-07-14T02:48:49Z
+4lch4/Tournoodle-Bot	The Discord bot used for building and testing the Tournoodle module.	public, archived	2020-07-14T02:48:42Z
+4lch4/ng_test		public, archived	2020-07-14T02:48:36Z
+4lch4/discord-vscode	🖋️ Update your discord status with the newly added rich presence	public, fork, archived	2020-07-14T02:48:31Z
+4lch4/Tournoodle	A node.js module for generating and managing tournament brackets.	public, archived	2020-07-14T02:48:29Z
+4lch4/Mari	Just another Discord bot with an anime avatar.	public, fork, archived	2020-07-14T02:48:16Z
+4lch4/overwatch-js	Overwatch NodeJS API : Retrieve informations about heroes/players from Overwatch Official Website	public, fork, archived	2020-07-14T02:47:54Z
+4lch4/sftp-deploy	A node module for deploying/syncing projects that are also stored on a server that supports SFTP.	public, archived	2020-07-14T02:47:44Z
+4lch4/Agendaid	A module to help Tron manage reminders using Agenda and MongoDB.	public, archived	2020-07-10T11:52:46Z
+4lch4/nextjs		public, archived	2020-07-06T23:30:50Z
+4lch4/alcha.github.io		public	2020-07-06T18:24:36Z
+4lch4/Gjallarhorn		private	2020-07-01T14:00:41Z
+4lch4/Trejo	A wrapper/library for interacting with the Trello REST API.	public, archived	2020-06-30T22:59:54Z
+4lch4/node-linewrap		public, fork	2020-06-29T19:15:57Z
+4lch4/Rasmodius	A Discord bot for interacting with the Stardew Valley Wiki.	public, archived	2020-05-15T17:00:32Z
+4lch4/Trejo-fn		public, archived	2020-05-15T09:53:14Z
+4lch4/Ganymede		public, archived	2020-05-02T21:58:45Z
+4lch4/form-data	A module to create readable `"multipart/form-data"` streams. Can be used to submit forms and file uploads to other web applications.	public, fork	2020-04-16T11:05:51Z
+4lch4/text-app	A text editor for ChromeOS and Chrome	public, fork, archived	2020-03-29T05:36:15Z
+4lch4/COWnters	A website used to find counters to specific heroes in Overwatch.	public, archived	2020-03-29T03:48:39Z
+4lch4/ToDo_App	CodePath ToDo App	public, archived	2020-03-29T03:44:12Z
+4lch4/vscode-jest-snippets		public, archived	2020-03-29T03:43:40Z
+4lch4/External_Storage_Test		public, archived	2020-03-29T03:43:34Z
+4lch4/Writing	A collection of my writing that I've completed or am working on.	public	2020-03-29T03:43:31Z
+4lch4/Hermes_Node.js		public, archived	2020-03-29T03:43:24Z
+4lch4/Intent_Service_Practice	Practicing with Intent_Services.	public, archived	2020-03-29T03:43:20Z
+4lch4/sample-programs	Sample Programs in Every Programming Language	public, fork, archived	2020-03-29T03:43:13Z
+4lch4/Blingatron	Some code for the blingatron giveaway bot.	public, archived	2020-03-29T03:42:47Z
+4lch4/algalon		public, archived	2020-03-29T03:42:44Z
+4lch4/My_Sunshine_App	Udacity Android Developer Course	public, archived	2020-03-29T03:42:39Z
+4lch4/Squanchy	My personal website	public, archived	2020-03-29T03:42:33Z
+4lch4/Hermes_Android		public, archived	2020-03-29T03:42:29Z
+4lch4/tour-of-heroes	My walkthrough of the Tour of Heroes sample by the Angular team. I followed along with the sample to create this in order to get a refresher on Angular.	public, archived	2020-01-22T17:20:35Z
+4lch4/Ansel-Lib	The API wrapper for interacting with the Ansel API endpoints.	public	2019-12-01T00:44:29Z
+4lch4/toggl_bot	A simple "bot" that'll perform regular tasks for me in Toggl.	public, archived	2019-11-14T05:57:53Z
+4lch4/pipedream		public, archived	2019-11-10T04:13:07Z
+4lch4/Ira	An app for creating playlists of videos from the Game Grumps YouTube channel.	public, archived	2019-10-29T09:25:53Z
+4lch4/Casse	A stupid simple bot a friend requested I make. 🤦‍♂️	public, archived	2019-10-29T09:19:47Z
+4lch4/LearningMongo	My attempt at finally learning mongoDB.	public, archived	2019-10-29T08:59:12Z
+4lch4/rss-combinator	A utility for retrieving the latest entries from RSS feeds of interest.	public, archived	2019-10-29T08:58:00Z
+4lch4/Programming-Challenges	A collection of challenges, mostly from dev.to, that I've attempted.	public	2019-10-29T08:54:44Z
+4lch4/roadlfare		private, archived	2019-10-29T08:53:24Z
+4lch4/Apollo	A small node application for showing current system info	public, archived	2019-10-29T07:12:01Z
+4lch4/CommieBot	A bot idea that a friend of mine came up with. Runs a server in such a way that there are no individuals in control of the server but rather member consensus is required for all actions. Consensus is met using this bot.	public, archived	2019-10-29T07:11:57Z
+4lch4/espanso-package-example	An example on how to create an espanso package	public, fork	2019-09-29T16:22:30Z
+4lch4/grunt-svgstore	Merge svgs from a folder	public, fork	2019-06-27T20:49:42Z
+4lch4/outside-cli	A simple node package to practice developing cli applications.	public, archived	2019-06-12T11:28:12Z
+4lch4/nekos-dot-life	Nekos.life wrapper.	public, fork, archived	2018-12-04T11:05:22Z
+4lch4/Gamgee	A PowerShell module containing various functions that make my life easier.	public	2018-10-24T04:26:35Z
+4lch4/Enhanced-File-n-Folder-Creator	A small vscode extension that help you to create files & folder in Atom Style.	public, fork	2018-10-11T17:52:40Z
+4lch4/hf.solutions		public	2018-09-30T18:48:47Z
+4lch4/Rocky	My motivational project for helping me with my confidence in languages of choice, Java and Node.js/JavaScript.	public, archived	2018-09-16T23:20:46Z
+4lch4/PowerShell	A collection of PowerShell stuff I use on my machines to make life a bit easier.	public	2018-09-14T18:51:26Z
+4lch4/Ember_Testing		public, archived	2018-07-28T09:26:53Z
+4lch4/ASSettings	My public settings for Android Studio.	public	2018-04-02T11:52:34Z
+4lch4/YumaBot-Core	A lightweight Discord bot framework made in NodeJS using Eris	public, fork, archived	2017-05-02T10:35:53Z
+4lch4/habitica-node	A node wrapper for the habitica api	public, fork	2017-04-06T02:07:23Z
+4lch4/ITP-Advanced-COBOL-FINAL		public, fork	2014-05-06T02:21:56Z
