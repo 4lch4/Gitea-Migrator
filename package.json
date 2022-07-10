@@ -1,8 +1,10 @@
 {
   "name": "gitea-migrator",
+  "displayName": "Gitea Migrator",
   "version": "0.2.0",
   "description": "A small utility written in TypeScript that processes a data file containing repos on GitHub and migrates them to a Gitea instance.",
   "main": "dist/index.js",
+  "type": "module",
   "scripts": {
     "start": "node dist/index.js"
   },
