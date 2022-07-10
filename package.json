@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
-    "start": "node dist/index.js"
+    "start": "doppler run -- node dist/index.js"
   },
   "author": {
     "name": "4lch4",
