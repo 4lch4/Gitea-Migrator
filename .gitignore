@@ -130,3 +130,7 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# User Additions
+node_modules
+.env
+.DS_Store
